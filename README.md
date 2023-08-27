@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/georgiguto/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=georgiguto&layout=compact&langs_count=16&theme=onedark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=georgiguto&layout=compact&langs_count=16&theme=onedark" />
 </a>
 <a href="https://github.com/georgiguto/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgiguto&layout=compact&langs_count=16&theme=onedark" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgiguto&layout=compact&langs_count=16&theme=onedark" />
 </a>
 
 
