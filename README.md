@@ -1,7 +1,7 @@
 - ## Olá! Eu sou o Georgi Guto, criador de conteúdo de programação e tecnologia!
 
 - 🔭 Busco por uma oportunidade na programação
-- 🌱 Estudando JavaScript / Html5 / CSS3
+- 🌱 Estudando JavaScript / Html5 / CSS3 / React / Typescript
 - 😄 Pronouns: ele/dele
 
 
